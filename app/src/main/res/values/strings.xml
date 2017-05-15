@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PayMet Test</string>
+
+    <!--Errors-->
+    <string name="network_error">Please check your internet connection</string>
+    <string name="network_failed_error">Something went wrong. Please try again</string>
+</resources>
